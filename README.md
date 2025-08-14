@@ -41,13 +41,10 @@
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baljir0901&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baljir0901&layout=compact&theme=tokyonight" alt="Top languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baljir0901&theme=tokyonight" alt="GitHub streak" />
+<p align="center" >
+  <img src="https://github-readme-stats.vercel.app/api?username=bekrisan&show_icons=true&theme=radical" alt="GitHub stats" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekrisan&layout=compact&theme=highcontrast" alt="Top languages" width="30%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bekrisan&theme=dracula" alt="GitHub streak" width="30%"/>
 </p>
 
 ---
@@ -55,17 +52,19 @@
 ## 🏆 Hobbies
 
 <p align="center">
-  <figure style="max-width: 600px; margin: 0 auto;">
-    <img src="images/voba_zurag.jpg" alt="2023 High School Volleyball Championship" style="width: 100%; border-radius: 10px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif"  width="45%"/>
+    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  width="45%"/>
+  <figure width="300px" border-radius="10px">
+    <img src="images/voba_zurag.jpg" alt="2023 High School Volleyball Championship" />
     <figcaption>Picture of the 2023 High School Volleyball Championship</figcaption>
   </figure>
   <br/>
-  <figure style="max-width: 600px; margin: 0 auto;">
+  <figure width="300px" border-radius="10px">
     <img src="images/1226px-Brasil_vence_a_França_no_vôlei_masculino_1037987-15.08.2016_ffz-6369.jpg" alt="Volleyball World Championship Brazil vs France" style="width: 100%; border-radius: 10px;" />
     <figcaption>Volleyball World Championship — Brazil vs France</figcaption>
   </figure>
   <br/>
-  <figure style="max-width: 600px; margin: 0 auto;">
+  <figure width="300px" border-radius="10px">
     <img src="images/Hiking.jpg" alt="Hiking with family" style="width: 100%; border-radius: 10px;" />
     <figcaption>Hiking with family</figcaption>
   </figure>
@@ -84,7 +83,7 @@
 ## 📫 Contact
 
 <p align="center">
-  <a href="http://mongolia.it.com/about">About</a>
+<!--   <a href="http://mongolia.it.com/about">About</a> -->
   &nbsp;•&nbsp;
   <a href="mailto:bilguun.itbs@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Bilguun" />
